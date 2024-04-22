@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "欺骗的艺术读后感"
-subtitle: "对安全的误区"
-date: 2024-04-22 14:34:00
-author:  "雪豹"
-catalog: false
-published: false
-header-style: text
+layout:     post
+title:      "欺骗的艺术读后感"
+subtitle:   " 对安全的误区 "
+date:       2024-04-25 14:34:00 
+author:     "雪豹"
+catalog: true
 tags:
-  - 社会工程学
+    - 社会工程学
+    - 读后感
 ---
 
 # 前言
